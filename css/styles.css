@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+.title {
+    display: flex;
+    justify-content: center;
+}
 .container {
     display: flex;
     justify-content: center;
